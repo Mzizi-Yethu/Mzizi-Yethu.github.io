@@ -274,7 +274,7 @@ img#code-gif {
     top: 0;
     left: 0;
     width: 100%;
-    height: 200vh;
+    height: 220vh;
     opacity: 0.1; /* Adjust the opacity as desired (0.0 to 1.0) */
     z-index: 1; /* Place it behind other content */
     margin-top: 780px;
